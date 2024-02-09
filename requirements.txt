@@ -1,0 +1,8 @@
+jupyter
+notebook
+pandas
+pandas_ta
+plotly
+numpy
+scipy
+yfinance
